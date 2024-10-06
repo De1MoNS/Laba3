@@ -168,7 +168,7 @@ class OddEvenSeparator
     }
 }
 
-// Задание 5: Класс Table
+// Задание 5
 class Table
 {
     private int[][] table;
